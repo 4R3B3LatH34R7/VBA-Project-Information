@@ -11,3 +11,6 @@ https://github.com/NLYinMaung/VBA/releases/tag/v1.0.0-alpha.1
 
 2. Full version showing the different count values, buttons for reloading and exporting to table on worksheet.
 ![full version version](images/full%20version.png)
+
+3. Future release displaying every procedure calls made for each procedure in every module.
+![procedure calls](images/procedure%20calls.png)
