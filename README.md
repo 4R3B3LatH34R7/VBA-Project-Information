@@ -14,3 +14,7 @@ https://github.com/NLYinMaung/VBA/releases/tag/v1.0.0-alpha.1
 
 3. Future release displaying every procedure calls made for each procedure in every module.
 ![procedure calls](images/procedure%20calls.png)
+
+ <a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kjs6pshfgo7n88fnbmhk" alt="trackgit-views" />
+</a>
