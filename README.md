@@ -15,10 +15,6 @@ https://github.com/NLYinMaung/VBA/releases/tag/v1.0.0-alpha.1
 3. Future release displaying every procedure calls made for each procedure in every module.
 ![procedure calls](images/procedure%20calls.png)
 
- <a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kjs6pshfgo7n88fnbmhk" alt="trackgit-views" />
-</a>
-
 ***
 ## License
 I don't actually like/want/wish to apply CC BY-SA license to what I share, really!\
@@ -35,3 +31,6 @@ This work is licensed under a
 [cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 ***
+ <a href="https://trackgit.com">
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kjs6pshfgo7n88fnbmhk" alt="trackgit-views" />
+</a>
