@@ -1,5 +1,5 @@
 # VBA Project Information
-NLYM VBA Projects\
+NL VBA Projects\
 From Here on Out, I will share some VBA projects that I created.
 
 I am just starting out on GitHub...so still figuring out how to release something, please bear with me!
